@@ -14,7 +14,7 @@
                         </div>
                     @endif
 
-                    <h1>TERBARU AWKAWKAWJKAWJ</h1>
+                    <h1>VERSI 2</h1>
                 </div>
             </div>
         </div>
